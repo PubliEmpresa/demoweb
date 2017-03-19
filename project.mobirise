@@ -827,7 +827,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-final-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/80707-ogskh6-208g-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
