@@ -859,7 +859,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -968,7 +968,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/foto-perfil-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
