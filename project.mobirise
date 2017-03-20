@@ -1173,7 +1173,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6005.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
