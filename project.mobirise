@@ -1125,7 +1125,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/caratula-aleshir-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/caratula-aleshivr-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1173,7 +1173,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6003.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
