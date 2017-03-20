@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PubliEmpresa.cl",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
