@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PubliEmpresa.cl",
-    "currentPage": "index.html",
+    "currentPage": "servicios.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1141,7 +1141,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/01-logo-mockup-by-punedesign-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/muestra-colores-logo-1-copia-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1173,7 +1173,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
