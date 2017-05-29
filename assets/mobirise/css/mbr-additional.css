@@ -116,8 +116,8 @@ h6,
   border-color: #a07e49 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ff0000;
+  border-color: #ff0000;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -126,14 +126,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #b30000;
+  border-color: #b30000;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #b30000 !important;
+  border-color: #b30000 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -237,8 +237,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #990000;
+  color: #990000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -246,14 +246,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ff0000;
+  border-color: #ff0000;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
 }
 .btn-info-outline {
   background: none;
@@ -742,14 +742,27 @@ h6,
 #msg-box5-5 .btn {
   font-size: 13px;
 }
+#msg-box5-5 I {
+  color: #ff0000;
+}
+#msg-box5-5 SPAN {
+  color: #ff0000;
+}
+#social-buttons1-e .mbr-section-title {
+  color: #ffffff;
+}
 #extFeatures4-3 .mbr-iconfont-features4 {
   color: undefined !important;
 }
 #extFeatures4-3 .wraper {
   border-color: undefined !important;
 }
-#social-buttons1-e .mbr-section-title {
+#extFeatures4-3 H4 {
   color: #ffffff;
+}
+#extFeatures4-3 P {
+  color: #ffffff;
+  font-size: 18px;
 }
 #content8-a .mbr-section-title,
 #content8-a p {
@@ -759,28 +772,18 @@ h6,
 #content8-a P {
   font-size: 18px;
 }
+#extFeatures7-4 .mbr-section-title {
+  color: #313131;
+}
 #social-buttons2-11 .mbr-section-title,
 #social-buttons2-11 .btn-social {
   color: #232323;
 }
-#contacts5-c p,
-#contacts5-c .list-group-text,
-#contacts5-c .form-control-label {
-  color: #000;
+#social-buttons2-11 .mbr-section-title {
+  color: #ffffff;
 }
-#contacts5-c strong,
-#contacts5-c h4 {
-  color: #7e9b9f;
-}
-#contacts5-c form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-c .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-c .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+#contacts1-14 STRONG {
+  color: #aeaeae;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;

@@ -1,17 +1,17 @@
 {
   "settings": {
-    "name": "PubliEmpresa.cl",
-    "currentPage": "servicios.html",
+    "name": "MAG REPRESENTACIONES",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#ff0000",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#433bda",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -22,17 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
-    "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "",
-    "html_before": "",
-    "headbody": "",
-    "botbody": "",
-    "globalfooter": "<!-- BEGIN JIVOSITE CODE {literal} -->\r\n<script type='text/javascript'>\r\n(function(){ var widget_id = 'Ubp0NcYyX3';var d=document;var w=window;function l(){\r\nvar s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>\r\n<!-- {/literal} END JIVOSITE CODE -->",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 41,
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -51,8 +42,7 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "21px"
+              "color": "#ffffff"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -64,22 +54,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#cc2600"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#f02d00!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#ff3000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -93,9 +83,6 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
-            },
-            ".btn": {
-              "font-size": "12px"
             }
           },
           "_tags": [
@@ -104,25 +91,25 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "0.85",
+            "bgColor": "#ff3000",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logojjffdadaaa22222222-265x268.png",
+              "src": "@PROJECT_PATH@/assets/images/mag-representaciones-logo-554x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -132,117 +119,810 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicios.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PubliEmpresa.cl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicios.html\" aria-expanded=\"false\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicios.html#contacts4-1s\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"servicios.html#header3-s\">INGRESAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BIENVENIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-a\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\"><span class=\"imind-china mbr-iconfont mbr-iconfont-btn\"></span>CHI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"><span class=\"imind-united-states mbr-iconfont mbr-iconfont-btn\"></span>ENG</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extSlider1",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "4",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/comercio-exterior-expansin-internacional-2000x1281.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "REPRESENTACIÓNES",
+                "showText": true,
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Somos representantes comerciales de marcas Chilenas en China.</span><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures4-3\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/exportaciones-2000x1332.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "SEGUIMIENTO<br>COMPLETO",
+                "showText": true,
+                "text": "De tus productos o servicios.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures4-3\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/poblacion-china-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "VISITAS GUIADAS",
+                "showText": true,
+                "text": "A fábricas de proveedores en China.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures4-3\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/banner2-2000x814.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "TRANSPORTE SEGURO",
+                "showText": true,
+                "text": "Gestionamos las mejores alternativas de transporte para tus productos.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures4-3\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "extSlider1-10",
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1x",
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#e24141"
+            },
+            "P": {
+              "color": "#232323"
+            },
+            ".btn": {
+              "font-size": "13px"
+            },
+            "I": {
+              "color": "#ff0000"
+            },
+            "SPAN": {
+              "color": "#ff0000"
+            }
+          },
+          "_anchor": "msg-box5-5",
           "_params": {
+            "imageSize": "51",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/original-carpeta-blanca-2000x2030.png",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#fff",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "DESARROLLO WEB",
-          "text": "Diseñamos, actualizamos y administramos con eficiencia el sitio web y redes sociales que tu empresa o emprendimiento necesita.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">SOLICITAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">VER SERVICIOS</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20170508-wa0001-1400x1246.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>TU MARCA</i>&nbsp;<span style=\"font-weight: normal;\">EN CHINA</span>",
+          "text": "Poseemos basta trayectoria y experiencia en actividades comerciales tales como la adquisición y/o exportación de bienes u servicios.<br><span style=\"color: rgb(35, 35, 35); font-size: 1.07rem; line-height: 1.5;\">Nuestros servicios estan enfocados en la representacion de personas y Empresas tanto en el mercado nacional como en el internacional..</span><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-1s",
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Comercio Exterior"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "extFeatures4-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "handshake",
+              "family": "iconsMind",
+              "active": true,
+              "link": "",
+              "size": "260",
+              "color": "#2c82c9",
+              "newWindow": false
+            }
+          },
+          "title1": "Representaciones",
+          "subtitle1": "Lorem ipsum dolor sit amet,&nbsp;",
+          "caption1": "Tanto para compra, ventas y viajes de negocio ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "business-man",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#2c82c9",
+              "newWindow": false
+            }
+          },
+          "title2": "Asesorias",
+          "subtitle2": "Lorem ipsum dolor sit amet,&nbsp;",
+          "caption2": "Brindamos el apoyo necesario para que tu emprendimiento encuentre el destino deseado en territorio nacional e internacional. ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#2c82c9",
+              "newWindow": false
+            }
+          },
+          "title3": "Broker",
+          "subtitle3": "Lorem ipsum dolor sit amet,&nbsp;",
+          "caption3": "Intermediación en operaciones de compra y venta en diversos destinos comerciales, nacionales e internacionales.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 200,
+              "color": "#2c82c9",
+              "newWindow": false
+            }
+          },
+          "title4": "Merchandising",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Posicionamos, enviamos y destacamos tu producto en los mejores mercados internacionales.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-a",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20150128pht16903-original-2000x1250.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CIENTOS DE OPORTUNIDADES DE NEGOCIO",
+          "caption": "<p>Calidad, respaldo y garantía de envíos y recepción de mercancias.&nbsp;<span style=\"line-height: 1.5;\">Para ello contamos con los mas altos estandares internacionales con un equipo de profesionales capacitado para satisfacer cada necesidades de nuestros clientes.</span></p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#313131"
+            }
+          },
+          "_anchor": "extFeatures7-4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false
+          },
+          "title": "Blog y Noticias",
+          "subtitle": "Entérate de noticias de interes comercial entre Chile y China.",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/file-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Los diez acuerdos suscritos entre Chile y China para mejorar el comercio y el apoyo bilateral en turismo, ciencia e inversiones",
+          "subtitle1": "Emol.com 13 de Mayo de 2017",
+          "caption1": "Este sábado, la Presidenta Michelle Bachelet junto a su par chino, Xi Jinping, encabezaron la ceremonia de firmas en el Gran Palacio del Pueblo en Beijing.<br>",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/no-tpp-600x326.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Alianzas comerciales entre China y Chile: La intención del Ejecutivo por reflotar el TPP",
+          "subtitle2": "<span style=\"letter-spacing: 0px; line-height: 22.36px;\">Radio.uchile.cl 14 de mayo 2017</span><br>",
+          "caption2": "Integrante de la Plataforma Chile Mejor sin TPP, advierte que estos nuevos acuerdos sólo benefician a trasnacionales, no existiendo evaluación alguna sobre los daños ambientales que generan. ",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/taca-peru-a330-600x370.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Tratado de Libre Comercio Chile – China<br>",
+          "subtitle3": "<span style=\"letter-spacing: 0px; line-height: 22.36px;\">Chile.gob.cl</span><br>",
+          "caption3": "El Tratado de Libre Comercio (TLC) entre Chile y China fue una negociación rápida y efectiva.",
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7-600x385.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Ven dificultades en Rutas de la Seda",
+          "subtitle4": "<span style=\"letter-spacing: 0px; line-height: 22.36px;\">Eleconomista.com.mx</span><br>",
+          "caption4": "El presidente del Banco Mundial (BM), Jim Yong Kim, y la directora gerente del Fondo Monetario Internacional (FMI), Christine Lagarde, advirtieron a China de las dificultades del plan global de inversiones que promueve bajo el nombre de las Nuevas Rutas de la Seda.",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bandera-china-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Comercio exterior de China en enero da nueva señal de recuperación",
+          "subtitle5": "<span style=\"letter-spacing: 0px; line-height: 22.36px;\">Latercera.com 10/02/2017</span><br>",
+          "caption5": "Las exportaciones de China contabilizadas en yuanes crecieron 15,9% interanual en enero, mientras las importaciones subieron 25,2% en ese mismo período, según datos oficiales publicados anoche, informó Efe.",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wp-china-town-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Acciones chinas cortan racha de ganancias y persisten inquietudes regulatorias",
+          "subtitle6": "Gestion.pe 17 de mayo del 2017",
+          "caption6": "El mercado chino se recuperó en las últimas sesiones después de que Pekín anunció medidas para aliviar el temor de los inversores a través de generosas inyecciones de efectivo en el mercado interbancario y comentarios favorables.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-11",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-chilechina-2000x500.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff"
+          },
+          "text": "SÍGUENOS EN REDES SOCIALES",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://WWW.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-odnoklassniki mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-14",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#414141",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Ubicación</strong><br>\nChile<br><br><br>\n<strong>Contacto</strong><br>EMail: info@publiempresa.cl<br>\nFono/Whatsapp: +56 9 6117 3602<br>\nTeléfono de red fija: +56 51 221 9803</p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Servicios</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"servicios.html\">Desarrollo Web</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicios.html\">Marketing Digital</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"servicios.html\">Publicidad</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "contactoagenciaweb@gmail.com",
-            "alerts": {
-              "success": "Gracias! Nos pondremos en contacto a la brevedad."
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-blanco3-128x106.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Nombre"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Teléfono"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contáctenos</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1t",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 PubliEmpresa.cl"
+          "text1": "<strong>Dirección</strong><br>Calle Balmaceda #469, <br>Oficina 23,&nbsp;La Serena, <br>Chile.<br>",
+          "text2": "<strong>Contacto</strong><br>\nEmail: <br>info@magrepresentaciones.cl<br>\n<br>Teléfono: <br>+51 2 674 468",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html\">Servicios</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html\">Clientes</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html\">Blog</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_styles": {
+            "STRONG": {
+              "color": "#aeaeae"
+            }
+          }
         }
       ]
     },
-    "servicios.html": {
+    "Los diez acuerdos suscritos entre Chile y China para mejorar el comercio y el apoyo bilateral en turismo, ciencia e inversiones.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
+        "title": "Los diez acuerdos suscritos entre Chile y China para mejorar el comercio y el apoyo bilateral en turismo, ciencia e inversiones.html",
+        "meta_descr": "Web Builder Description"
       },
       "components": [
         {
@@ -251,8 +931,7 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "21px"
+              "color": "#ffffff"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -264,22 +943,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#cc2600"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#f02d00!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#ff3000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -293,36 +972,33 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
-            },
-            ".btn": {
-              "font-size": "12px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-q",
+          "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "0.85",
+            "bgColor": "#ff3000",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logojjffdadaaa22222222-265x268.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20170508-wa0d001x-578x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -332,964 +1008,751 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicios.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PubliEmpresa.cl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicios.html\" aria-expanded=\"false\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicios.html#contacts4-1s\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"servicios.html#header3-s\">INGRESAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BIENVENIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-a\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\"><span class=\"imind-china mbr-iconfont mbr-iconfont-btn\"></span>CHI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"><span class=\"imind-united-states mbr-iconfont mbr-iconfont-btn\"></span>ENG</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h",
           "_params": {
-            "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "4",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "MARKETING DIGITAL",
-                "showText": true,
-                "text": "Contamos con la estratégia digital que tu empresa necesita.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"servicios.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"servicios.html#header3-s\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "DESARROLLO WEB",
-                "showText": true,
-                "text": "Ofrecemos un servicio personalizado, actual&nbsp;<br>a las nuevas tecnologías.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"servicios.html#header3-s\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"servicios.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "_anchor": "slider-r",
-          "articleLayout": false
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            "H3": {
-              "color": "#553982",
-              "font-size": "48px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "SMALL": {
-              "color": "#232323",
-              "font-size": "24px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-s",
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "Servicios Digitales",
-          "meta": " Para Empresas de todo tamaño"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f7da64",
-              "border-color": "#f7da64"
-            },
-            "H4": {
-              "color": "#553982"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-t",
-          "_params": {
-            "iconsBgColor": "#f7da64",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "responsive",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": "",
-              "color": "#000000",
-              "newWindow": false
-            }
-          },
-          "title1": "Diseño Web",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Desarrollamos tu web basados en<br>lo último&nbsp;en tendencias y tecnología.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "cart-add",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#000000",
-              "newWindow": false
-            }
-          },
-          "title2": "Comercio Electrónico",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Tu tienda online equipada y lista para <br>comenzar a vender y recibir pagos.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "google-scholar",
-              "family": "socicon",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#000000",
-              "newWindow": false
-            }
-          },
-          "title3": "Google Adwords",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Publicamos eficiente y segmentadamente<br>tus anuncios evitando costos excesivos.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">ADQUIRIR</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
-            },
-            "H4": {
-              "color": "#553982"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-u",
-          "_params": {
-            "iconsBgColor": "#ffffff",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "growing-chart",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#553982",
-              "newWindow": false
-            }
-          },
-          "title1": "SEO – Analítica Web",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Medimos y  remodelamos cada detalle de <br>tu sitio en pro de tus objetivos.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "database",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#553982",
-              "newWindow": false
-            }
-          },
-          "title2": "Hosting Empresas",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Hosting de primer nivel e ilimitado incluído <br>gratis&nbsp;en todos los planes.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "setting",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#553982",
-              "newWindow": false
-            }
-          },
-          "title3": "Soporte y Mantenimiento Web",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Tu sitio web y redes sociales necesitan estar <br>constantemente activos, nos encargamos de todo.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1338.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"servicios.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">SUSCRIBIR</a>",
-          "title": "Suscríbete a nuestro blog",
-          "text": "Y descubre el trabajo de decenas de artístas y emprendedores en tu región."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#553982",
-              "text-align": "center",
-              "font-size": "46px"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-16",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#efefef",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "Red de promoción exclusiva",
-          "caption": "<p>Únete a nuestro club de clientes y promueve tus productos y servicios en sus sitios web y redes sociales totalmente gratis!.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "DIV": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H4": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H5": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "features3-z",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#efefef",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/80707-ogskh6-208g-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Lahsen y Cortés Propiedades",
-          "subtitle1": "Diseño de logotipo.<div>Desarrollo portal inmobiliario.</div><div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption1": "Diseño de logotipo.<br>Desarrollo portal inmobiliario.<br>Actualización y administración de redes sociales.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/foto-perfil2-2000x2000.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Climatimaq Ltda.",
-          "subtitle2": "Diseño de logotipo.<div>Desarrollo Web.</div><div>Actualización y administración <br>de redes sociales.</div>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Escoservice",
-          "subtitle3": "Diseño de logotipo.<div>Diseño de página publicitaria.</div><div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/3d-wall-logo-mockup-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Clean Servicios SpA.",
-          "subtitle4": "Diseño de logotipo.",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/222-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Unimusica.cl",
-          "subtitle5": "Diseño de logotipo.<div>Desarrollo portal Web.</div><div>Actualización y administración</div><div>de redes sociales.</div>",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/o8t5g11-convertido-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Vertici",
-          "subtitle6": "Diseño de logotipo.<div>Desarrollo Web.</div><div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "DIV": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H4": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H5": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "features3-17",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///C:/Users/Unimusica/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1328.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ffffff",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bubblegummers Ovalle",
-          "subtitle1": "Diseño de página web publicitaria.<div><span style=\"font-size: 0.875rem; line-height: 1.7857;\">Actualización de fanpage.</span><br></div>",
-          "caption1": "Diseño de logotipo.<br>Desarrollo portal inmobiliario.<br>Actualización y administración de redes sociales.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-1-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Fenix Investigadores",
-          "subtitle2": "Diseño Web.<div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20160926-wa0000-600x598.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Innova Peluquerías",
-          "subtitle3": "Desarrollo Web.<div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/foto-perfil-2-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Liquidadora Aduana",
-          "subtitle4": "Diseño de logotipo.<div>Desarrollo de Tienda Online.</div><div>Actualización y administración</div><div>de redes sociales.</div>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/78469-ofp2xi-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "TodoBombas Ltda.",
-          "subtitle5": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Diseño Web.</span><br><div>Actualización y administración </div><div>de redes sociales.</div>",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/77968-ofo989-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "PG Equipos",
-          "subtitle6": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Diseño Web.</span><br><div>Actualización y administración </div><div>de redes sociales.</div>",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "DIV": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H4": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            "H5": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "features3-18",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///C:/Users/Unimusica/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1328.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ffffff",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/18327-nrknth-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Coffe Relax",
-          "subtitle1": "Diseño de logotipo.<div><span style=\"font-size: 0.875rem; line-height: 1.7857;\">Diseño e impresión de volantes </span></div><div><span style=\"font-size: 0.875rem; line-height: 1.7857;\">y tarjetas.</span><br></div>",
-          "caption1": "Diseño de logotipo.<br>Desarrollo portal inmobiliario.<br>Actualización y administración de redes sociales.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/caratula-aleshivr-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "ssggsshssb",
-              "title": "mfhmfmfm",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Unimusica Ltda.",
-          "subtitle2": "Diseño de caratulas<span style=\"font-size: 0.875rem; line-height: 1.7857;\">.</span>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/muestra-colores-logo-1-copia-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "2t Servicios",
-          "subtitle3": "Diseño Web.<div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/muestralogo3-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Mandhala",
-          "subtitle4": "Diseño de logotipo.<div>Diseño Web.</div><div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x6005.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Tuko's Creaciones",
-          "subtitle5": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Diseño Web.</span><br><div>Actualización y administración&nbsp;</div><div>de redes sociales.</div>",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/baker-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Divino Sabor",
-          "subtitle6": "Diseño de logotipo.",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1r",
+          "_anchor": "header3-i",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"servicios.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"servicios.html#contacts4-1s\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-m",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
         {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1a",
+          "_anchor": "social-buttons2-o",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1194.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ffffff"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "text": "SÍGUENOS EN REDES SOCIALES",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DesarrolloWebPublicidad\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         },
         {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-p",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "",
+            "facebook": "Unimusica.cl",
+            "twitter": "",
+            "google": "",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false
+          },
+          "title": "MOBIRISE FEATURES",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/apple-imac-ipad-workplace.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures3",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            }
+          },
+          "_anchor": "extFeatures3-q",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extfeatures3-bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-1s",
+          "_name": "contacts5",
+          "_anchor": "contacts5-g",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Ubicación</strong><br>\nChile<br><br><br>\n<strong>Contacto</strong><br>EMail: info@publiempresa.cl<br>\nFono/Whatsapp: +56 9 6117 3602<br>\nTeléfono de red fija: +56 51 221 9803</p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Servicios</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"servicios.html\">Desarrollo Web</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"servicios.html\">Marketing Digital</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"servicios.html\">Publicidad</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20170508-wa0d001v-578x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Proporcionamos servicios integrados.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+51 2 674 468",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Calle Balmaceda #469, Oficina 23,<br>La Serena, Chile.<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:info@magrepresentaciones.cl\">info@magrepresentaciones.cl</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categorias",
+          "text5": "<li><a href=\"#\">Empresas</a></li><li><a href=\"#\">Comerciantes</a></li><li><a href=\"#\">Inversionistas</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"#\">Emprendedores</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"#\">Educación</a><a href=\"#\"></a></li>",
+          "text6": "<strong>Contacto</strong><br>Mail: <br>info@magrepresentaciones.cl<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Teléfono:&nbsp;</span><br>+51 2 674 468<br><br><br><strong>Dirección<br></strong><br>Calle Balmaceda #469, Oficina 23,<br>La Serena, Chile.",
           "form": {
             "title": "MESSAGE",
-            "action": "contactoagenciaweb@gmail.com",
+            "action": "info@magrepresentaciones.cl",
             "alerts": {
-              "success": "Gracias! Nos pondremos en contacto a la brevedad."
+              "success": "Gracias, pronto nos pondremos en contacto."
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": true,
-                "customTitle": "Nombre"
+                "visible": false,
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email"
+                "customTitle": "Correo electrónico"
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
-                "customTitle": "Teléfono"
+                "visible": false,
+                "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
@@ -1297,27 +1760,200 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contáctenos</a>"
-        },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"icon54-send-mail2 mbr-iconfont mbr-iconfont-btn\"></span>Enviar</a>"
+        }
+      ]
+    },
+    "contacto.html": {
+      "settings": {
+        "title": "Contacto",
+        "meta_descr": ""
+      },
+      "components": [
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#cc2600"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f02d00!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ff3000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1t",
+          "_name": "menu",
+          "_anchor": "menu-s",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "bgColor": "#ff3000",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
           },
-          "text": "Copyright (c) 2017 PubliEmpresa.cl"
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20170508-wa0d001x-578x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BIENVENIDOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-a\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\"><span class=\"imind-china mbr-iconfont mbr-iconfont-btn\"></span>CHI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"><span class=\"imind-united-states mbr-iconfont mbr-iconfont-btn\"></span>ENG</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            },
+            "H2": {
+              "text-align": "left",
+              "color": "#313313"
+            },
+            ".intro-box h5": {
+              "color": "#28324e"
+            },
+            "P": {
+              "color": "#28324e"
+            },
+            ".intro-box h4": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "extForm3-13",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/original-carpeta-blanca-2000x2030.png",
+            "bgColor": "#faaf40",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
+            "inverse": false,
+            "googleMap": {
+              "address": "Balmaceda #469, La Serena.",
+              "placeId": "ChIJ6WsuX3rKkZYRJYAlXgfVxHg",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-secondary-outline btn-secondary\">CHI</a>"
+          },
+          "title": "ESCRÍBANOS",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "O visitenos.",
+          "subTitle1": "Estamos atentos en responder todas sus dudas y consultas.",
+          "text1": "Teléfono: +51 2 674 468<br>Calle Balmaceda #469, Oficina 23, La Serena.<br>",
+          "form": {
+            "action": "info@magrepresentaciones.cl",
+            "alerts": {
+              "success": "Gracias, te contactaremos a la brevedad."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo electrónico"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"icon54-send-mail2 mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR</a>"
         }
       ]
     }
